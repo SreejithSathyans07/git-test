@@ -1,2 +1,6 @@
 Master's Content
 Commit TEST browser
+
+newFunction(){
+  //Does nothing
+}
